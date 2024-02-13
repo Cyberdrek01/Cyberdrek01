@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Jyoti Boro</h1>
-<h3 align="center">"I am a passionate learner with a strong interest in Android development, constantly seeking new opportunities to expand my skills and stay updated on the latest developments in the field."</h3>
+<h3 align="center">"I am a passionate learner with a strong interest in coding, constantly seeking new opportunities to expand my skills and stay updated on the latest developments in the field."</h3>
 
 - 📫 How to reach me **manasjyotiboro09@gmail.com**
 

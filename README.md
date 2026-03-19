@@ -160,4 +160,5 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  <i>"Every expert was once a beginner. This pr
+  <i>"Every expert was once a beginner."</i>
+</p>

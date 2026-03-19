@@ -22,7 +22,7 @@ class ManaJyotiBoro:
     motto      = "Every expert was once a beginner. Show up daily."
 ```
 
-I am a third-year B.Tech IT student actively transitioning into cybersecurity. I document everything I learn publicly — networking theory, Linux challenges, CTF writeups, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.
+I am a B.Tech IT student actively transitioning into cybersecurity. I document everything I learn publicly — networking theory, Linux challenges, CTF writeups, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.
 
 ---
 
@@ -91,7 +91,7 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasjyotiboro&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberdrek01&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasjyotiboro&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" width="48%" />
 </p>
 

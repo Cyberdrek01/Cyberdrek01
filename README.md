@@ -40,7 +40,7 @@ I am a third-year B.Tech IT student actively transitioning into cybersecurity. I
 > I maintain a dedicated repository documenting my entire cybersecurity journey.
 > Updated daily — theory notes, practical labs, CTF writeups, and tool usage.
 
-[![Cybersecurity Roadmap](https://img.shields.io/badge/📁%20Cybersecurity%20Roadmap-View%20Repository-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manasjyotiboro/cybersecurity-roadmap)
+[![Cybersecurity Roadmap](https://img.shields.io/badge/📁%20Cybersecurity%20Roadmap-View%20Repository-00ff88?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Cyberdrek01/Cybersecurity_Roadmap])
 
 | Section | Topics | Status |
 |---|---|---|

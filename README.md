@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manas+Jyoti+Boro;B.Tech+IT+%7C+3rd+Year;Aspiring+Cybersecurity+Professional;Learning+Every+Single+Day+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manas+Jyoti+Boro;B.Tech+Information+Technology;Aspiring+Cybersecurity+Professional;Learning+Every+Single+Day+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manasjyotiboro&label=Profile%20Views&color=00ff88&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/manasjyotiboro?label=Followers&style=flat&color=00ff88" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Cyberdrek01&label=Profile%20Views&color=00ff88&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Cyberdrek01?label=Followers&style=flat&color=00ff88" alt="followers" />
 </p>
 
 ---
@@ -14,15 +14,14 @@
 ```python
 class ManaJyotiBoro:
     name       = "Manas Jyoti Boro"
-    degree     = "B.Tech Information Technology — 3rd Year"
-    goal       = "Entry-Level Cybersecurity Job / Internship"
+    degree     = "B.Tech Information Technology"
+    goal       = "Cybersecurity enthusiast looking for real world experience"
     learning   = ["Networking", "Linux", "Web Security", "CTFs"]
     currently  = "Building cybersecurity foundations from scratch"
-    timeline   = "Internship-ready by July 2026"
     motto      = "Every expert was once a beginner. Show up daily."
 ```
 
-I am a B.Tech IT student actively transitioning into cybersecurity. I document everything I learn publicly — networking theory, Linux challenges, CTF writeups, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.
+I am a third-year B.Tech IT student actively transitioning into cybersecurity. I document everything I learn publicly — networking theory, Linux challenges, CTF writeups, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.
 
 ---
 
@@ -91,8 +90,8 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberdrek01&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasjyotiboro&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberdrek01&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdrek01&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -128,10 +127,10 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
 ## 🌐 Platforms & Profiles
 
 <p align="left">
-  <a href="https://tryhackme.com/p/manasjyotiboro" target="_blank">
+  <a href="https://tryhackme.com/p/Cyberdrek01" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/profile/manasjyotiboro" target="_blank">
+  <a href="https://app.hackthebox.com/profile/Cyberdrek01" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>

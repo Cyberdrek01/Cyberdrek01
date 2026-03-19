@@ -15,7 +15,7 @@
 class ManaJyotiBoro:
     name       = "Manas Jyoti Boro"
     degree     = "B.Tech Information Technology"
-    goal       = "Cybersecurity enthusiast looking for real world experience"
+    goal       = "Cybersecurity enthusiast looking a experience where my learning comes into play in reeal world scenerios"
     learning   = ["Networking", "Linux", "Web Security", "CTFs"]
     currently  = "Building cybersecurity foundations from scratch"
     motto      = "Every expert was once a beginner. Show up daily."
@@ -40,7 +40,7 @@ I am a third-year B.Tech IT student actively transitioning into cybersecurity. I
 > I maintain a dedicated repository documenting my entire cybersecurity journey.
 > Updated daily — theory notes, practical labs, CTF writeups, and tool usage.
 
-[![Cybersecurity Roadmap](https://img.shields.io/badge/📁%20Cybersecurity%20Roadmap-View%20Repository-00ff88?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Cyberdrek01/Cybersecurity_Roadmap])
+[![Cybersecurity Roadmap](https://img.shields.io/badge/📁%20Cybersecurity%20Roadmap-View%20Repository-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberdrek01/Cybersecurity_Roadmap)
 
 | Section | Topics | Status |
 |---|---|---|
@@ -143,7 +143,7 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
   <a href="https://www.linkedin.com/in/manas-jyoti-boro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manasjyotiboro09@gmail.com" target="_blank">
+  <a href="/cdn-cgi/l/email-protection#d7bab6b9b6a4bdaeb8a3beb5b8a5b8e7ee97b0bab6bebbf9b4b8ba" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/manasjyoti_boro" target="_blank">
@@ -160,5 +160,4 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  <i>"Every expert was once a beginner. This profile is proof that I showed up today."</i>
-</p>
+  <i>"Every expert was once a beginner. This pr

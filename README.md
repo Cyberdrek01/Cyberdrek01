@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manas+Jyoti+Boro;B.Tech+Information+Technology;Aspiring+Cybersecurity+Professional;Learning+Every+Single+Day+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cyberdrek01&label=Profile%20Views&color=00ff88&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Cyberdrek01?label=Followers&style=flat&color=00ff88" alt="followers" />
-</p>
-
 ---
 
 ## 🛡️ About Me

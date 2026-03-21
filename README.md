@@ -10,8 +10,8 @@
 class ManaJyotiBoro:
     name       = "Manas Jyoti Boro"
     degree     = "B.Tech Information Technology"
-    goal       = "Entry-Level SOC Analyst / Cybersecurity Internship"
-    domain     = "SOC / Blue Team"
+    goal       = "To have real worl experience in the field of cybresecurity"
+    domain     = "Blue Team"
     learning   = ["Networking", "Linux", "SOC", "SIEM", "CTFs"]
     currently  = "Building cybersecurity foundations from scratch"
     motto      = "Every expert was once a beginner. Show up daily."

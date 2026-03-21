@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manas+Jyoti+Boro;B.Tech+Information+Technology;Aspiring+Cybersecurity+Professional;Learning+Every+Single+Day+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cyberdrek01&label=Profile%20Views&color=00ff88&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Cyberdrek01?label=Followers&style=flat&color=00ff88" alt="followers" />
+</p>
+
 ---
 
 ## 🛡️ About Me
@@ -10,23 +15,24 @@
 class ManaJyotiBoro:
     name       = "Manas Jyoti Boro"
     degree     = "B.Tech Information Technology"
-    goal       = "Cybersecurity enthusiast looking a experience where my learning comes into play in reeal world scenerios"
-    learning   = ["Networking", "Linux", "Web Security", "CTFs"]
+    goal       = "Entry-Level SOC Analyst / Cybersecurity Internship"
+    domain     = "SOC / Blue Team"
+    learning   = ["Networking", "Linux", "SOC", "SIEM", "CTFs"]
     currently  = "Building cybersecurity foundations from scratch"
     motto      = "Every expert was once a beginner. Show up daily."
 ```
 
-I am a third-year B.Tech IT student actively transitioning into cybersecurity. I document everything I learn publicly — networking theory, Linux challenges, CTF writeups, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.
+I am a B.Tech IT student actively transitioning into cybersecurity. I have chosen **SOC / Blue Team** as my primary domain — the most in-demand entry-level cybersecurity role in India. I document everything I learn publicly — networking theory, Linux challenges, SOC labs, Wireshark practicals, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔐 **Networking Theory** — OSI Model, TCP/IP, DNS, Firewalls, HTTP/HTTPS ✅
-- 🐧 **Linux** — OverTheWire Bandit Wargames (12/34 levels complete) 🔄
-- 🌐 **SOC** ⏳
+- 📡 **Networking Theory + Practicals** — OSI, TCP/IP, DNS, Firewalls, HTTP/HTTPS, Wireshark ✅
+- 🐧 **Linux** — OverTheWire Bandit Wargames (15/34 levels complete) 🔄
+- 🔵 **SOC / Blue Team** — TryHackMe SOC Level 1, SIEM fundamentals 🔄
 - 🏴 **CTF Competitions** — PicoCTF, Hack The Box ⏳
-- 🔧 **Tools** — Nmap, Wireshark, Metasploit, Gobuster ⏳
+- 🔧 **Tools** — Splunk, Nmap, Burp Suite ⏳
 
 ---
 
@@ -39,11 +45,11 @@ I am a third-year B.Tech IT student actively transitioning into cybersecurity. I
 
 | Section | Topics | Status |
 |---|---|---|
-| 📡 Networking | OSI, Switches, Routers, DNS, Firewalls, HTTP, TCP/UDP | ✅ Theory Complete |
-| 🐧 Linux | OverTheWire Bandit Wargames | 🔄 In Progress |
-| 🛡️ SOC | ⏳ Coming Soon |
+| 📡 Networking | OSI, Switches, Routers, DNS, Firewalls, HTTP, TCP/UDP | ✅ Theory + Practicals Complete |
+| 🐧 Linux | OverTheWire Bandit Wargames (15/34) | 🔄 In Progress |
+| 🔵 SOC / Blue Team | SOC fundamentals, SIEM, TryHackMe SOC Level 1 | 🔄 In Progress |
 | 🏴 CTF Writeups | PicoCTF, Hack The Box | ⏳ Coming Soon |
-| 🔧 Tools | Nmap, Wireshark, Metasploit | ⏳ Coming Soon |
+| 🔧 Tools | Splunk, Nmap, Burp Suite, Metasploit | ⏳ Coming Soon |
 
 ---
 
@@ -63,6 +69,7 @@ I am a third-year B.Tech IT student actively transitioning into cybersecurity. I
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -74,10 +81,11 @@ I am a third-year B.Tech IT student actively transitioning into cybersecurity. I
 
 ```
 Networking Theory   ████████████████████  100% ✅
-Linux (Bandit)      ███████░░░░░░░░░░░░░░  35% 🔄
-Web Security        ░░░░░░░░░░░░░░░░░░░░░   0% ⏳
-CTF Competitions    ░░░░░░░░░░░░░░░░░░░░░   0% ⏳
-Tools & Practice    ██░░░░░░░░░░░░░░░░░░░  10% 🔄
+Networking Practice ████████████████████  100% ✅
+Linux (Bandit)      ████████░░░░░░░░░░░░   44% 🔄
+SOC / Blue Team     ████░░░░░░░░░░░░░░░░   20% 🔄
+CTF Competitions    ░░░░░░░░░░░░░░░░░░░░    0% ⏳
+Tools & Practice    ███░░░░░░░░░░░░░░░░░   15% 🔄
 ```
 
 ---
@@ -138,7 +146,7 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
   <a href="https://www.linkedin.com/in/manas-jyoti-boro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#d7bab6b9b6a4bdaeb8a3beb5b8a5b8e7ee97b0bab6bebbf9b4b8ba" target="_blank">
+  <a href="mailto:manasjyotiboro09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/manasjyoti_boro" target="_blank">
@@ -155,5 +163,5 @@ Tools & Practice    ██░░░░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  <i>"Every expert was once a beginner."</i>
+  <i>"Every expert was once a beginner. This profile is proof that I showed up today."</i>
 </p>

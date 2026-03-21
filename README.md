@@ -24,7 +24,7 @@ I am a third-year B.Tech IT student actively transitioning into cybersecurity. I
 
 - 🔐 **Networking Theory** — OSI Model, TCP/IP, DNS, Firewalls, HTTP/HTTPS ✅
 - 🐧 **Linux** — OverTheWire Bandit Wargames (12/34 levels complete) 🔄
-- 🌐 **Web Security** — OWASP Top 10, Burp Suite, PortSwigger ⏳
+- 🌐 **SOC** ⏳
 - 🏴 **CTF Competitions** — PicoCTF, Hack The Box ⏳
 - 🔧 **Tools** — Nmap, Wireshark, Metasploit, Gobuster ⏳
 
@@ -41,7 +41,7 @@ I am a third-year B.Tech IT student actively transitioning into cybersecurity. I
 |---|---|---|
 | 📡 Networking | OSI, Switches, Routers, DNS, Firewalls, HTTP, TCP/UDP | ✅ Theory Complete |
 | 🐧 Linux | OverTheWire Bandit Wargames | 🔄 In Progress |
-| 🌐 Web Security | OWASP Top 10, SQLi, XSS, Burp Suite | ⏳ Coming Soon |
+| 🛡️ SOC | ⏳ Coming Soon |
 | 🏴 CTF Writeups | PicoCTF, Hack The Box | ⏳ Coming Soon |
 | 🔧 Tools | Nmap, Wireshark, Metasploit | ⏳ Coming Soon |
 

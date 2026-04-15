@@ -10,7 +10,7 @@
 class ManaJyotiBoro:
     name       = "Manas Jyoti Boro"
     degree     = "B.Tech Information Technology"
-    goal       = "To have real worl experience in the field of cybresecurity"
+    goal       = "To have real world experience in the field of cybresecurity"
     domain     = "Blue Team"
     learning   = ["Networking", "Linux", "SOC", "SIEM", "CTFs"]
     currently  = "Building cybersecurity foundations from scratch"

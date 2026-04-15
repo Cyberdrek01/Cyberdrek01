@@ -120,7 +120,7 @@ Tools & Practice    ███░░░░░░░░░░░░░░░░░
 
 </details>
 
----
+<!---
 
 ## 🌐 Platforms & Profiles
 
@@ -133,7 +133,7 @@ Tools & Practice    ███░░░░░░░░░░░░░░░░░
   </a>
 </p>
 
----
+--->
 
 ## 🤝 Connect With Me
 

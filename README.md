@@ -17,7 +17,7 @@ class ManaJyotiBoro:
     motto      = "Every expert was once a beginner. Show up daily."
 ```
 
-I am a B.Tech IT student actively transitioning into cybersecurity. I document everything I learn publicly — networking theory, Linux challenges, SOC labs, Wireshark practicals, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.
+I am a B.Tech IT student actively transitioning into cybersecurity. <!--I document everything I learn publicly — networking theory, Linux challenges, SOC labs, Wireshark practicals, and tool usage — both to build a portfolio and to hold myself accountable to learn something new every single day.-->
 
 ---
 

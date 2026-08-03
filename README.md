@@ -31,23 +31,6 @@ I am a B.Tech IT student actively transitioning into cybersecurity. <!--I docume
 
 ---
 
-## 📚 Cybersecurity Learning Repository
-
-> I maintain a dedicated repository documenting my entire cybersecurity journey.
-> Updated daily — theory notes, practical labs, CTF writeups, and tool usage.
-
-[![Cybersecurity Roadmap](https://img.shields.io/badge/📁%20Cybersecurity%20Roadmap-View%20Repository-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberdrek01/Cybersecurity_Roadmap)
-
-| Section | Topics | Status |
-|---|---|---|
-| 📡 Networking | OSI, Switches, Routers, DNS, Firewalls, HTTP, TCP/UDP | ✅ Theory + Practicals Complete |
-| 🐧 Linux | OverTheWire Bandit Wargames (15/34) | 🔄 In Progress |
-| 🔵 SOC / Blue Team | SOC fundamentals, SIEM, TryHackMe SOC Level 1 | 🔄 In Progress |
-| 🏴 CTF Writeups | PicoCTF, Hack The Box | ⏳ Coming Soon |
-| 🔧 Tools | Splunk, Nmap, Burp Suite, Metasploit | ⏳ Coming Soon |
-
----
-
 ## 🔧 Languages & Tools
 
 <p align="left">
@@ -72,27 +55,7 @@ I am a B.Tech IT student actively transitioning into cybersecurity. <!--I docume
 
 ---
 
-## 🏆 Cybersecurity Progress
 
-```
-Networking Theory   ████████████████████  100% ✅
-Networking Practice ████████████████████  100% ✅
-Linux (Bandit)      ████████░░░░░░░░░░░░   44% 🔄
-SOC / Blue Team     ████░░░░░░░░░░░░░░░░   20% 🔄
-CTF Competitions    ░░░░░░░░░░░░░░░░░░░░    0% ⏳
-Tools & Practice    ███░░░░░░░░░░░░░░░░░   15% 🔄
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberdrek01&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdrek01&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" width="48%" />
-</p>
-
----
 
 ## ⚔️ Attacks & Concepts Learned
 
